@@ -1,0 +1,15 @@
+.dockerignore
+.git
+.gitignore
+README.md
+LICENSE
+.vscode
+.idea
+./dist
+
+
+
+# Node Files #
+node_modules
+package-lock.json
+npm-debug.*
